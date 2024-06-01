@@ -1,2 +1,2 @@
-# GCC
-Gore C Compiler
+# FCC
+Fantastic C Compiler
