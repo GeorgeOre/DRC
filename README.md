@@ -1,2 +1,2 @@
-# FCC
-Fantastic C Compiler
+# DRC
+Democratic Republic of the Compiler
